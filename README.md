@@ -24,7 +24,7 @@ a second category. In essence, your single-class segmentation model will operate
 <br><br>
 <b>Data Augmentation Strategy</b><br>
 To address the limited size of PNG subset of <b>PHE-ICH-CT-IDS: Hemorrhage CT Scan Dataset</b> 
-, we applied our offline augmentation tool 
+, we used our offline augmentation tool 
  <a href="https://github.com/sarah-antillia/Image-Distortion-Tool">
 Image-Distortion-Tool</a> to augment the original subset.
 <br>
