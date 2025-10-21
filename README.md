@@ -375,14 +375,23 @@ https://www.nejm.org/doi/pdf/10.1056/NEJMra2201449
 </a>
 <br>
 <br>
-<b>6. TensorFlow-FlexUNet-Image-Segmentation-Real-Time-Brain-Stroke-CT</b><br>
+<b>6. Semantic Segmentation of Spontaneous Intracerebral Hemorrhage, <br>
+Intraventricular Hemorrhage, and Associated Edema on CT Images Using Deep Learning</b><br>
+Yong En Kok, Stefan Pszczolkowski, Zhe Kang Law, Azlinawati Ali, Kailash Krishnan, <br>
+Philip M Bath, Nikola Sprigg, Robert A Dineen, Andrew P French<br>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9745441/">
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9745441/
+</a>
+<br>
+<br>
+<b>7. TensorFlow-FlexUNet-Image-Segmentation-Real-Time-Brain-Stroke-CT</b><br>
 Toshiyuki Arai antillia.com<br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Real-Time-Brain-Stroke-CT">
 https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Real-Time-Brain-Stroke-CT
 </a>
 <br>
 <br>
-<b>7. TensorFlow-FlexUNet-Image-Segmentation-TEKNOFEST-2021-Stroke-CT</b><br>
+<b>8. TensorFlow-FlexUNet-Image-Segmentation-TEKNOFEST-2021-Stroke-CT</b><br>
 Toshiyuki Arai antillia.com<br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-TEKNOFEST-2021-Stroke-CT">
 https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-TEKNOFEST-2021-Stroke-CT
