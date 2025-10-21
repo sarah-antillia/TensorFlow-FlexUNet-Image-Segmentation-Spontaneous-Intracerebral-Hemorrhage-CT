@@ -257,7 +257,7 @@ Evaluation console output:<br>
 
 <a href="./projects/TensorFlowFlexUNet/PHE-SICH-CT-IDS/evaluation.csv">evaluation.csv</a><br>
 
-The loss (bce_dice_loss) to this PHE-SICH-CT-IDS/test was very low, and dice_coef very high as shown below.
+The loss (categorical_crossentropy) to this PHE-SICH-CT-IDS/test was very low, and dice_coef_multiclass very high as shown below.
 <br>
 <pre>
 categorical_crossentropy,0.0027
